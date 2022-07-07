@@ -5,7 +5,7 @@ WorldInfo {
     "This model of the e-puck is equipped with ground sensors, located at the front of the e-puck."
     "Thanks to Jean-Christophe Zufferey (EPFL-LIS)."
   ]
-  title "E-Puck"
+  title "E-Puck Line Follow"
   lineScale 0.04
 }
 Viewpoint {
